@@ -1,0 +1,8 @@
+{
+  "resources": [
+    "file://.kiro/steering/ai-development-rules.md",
+    "file://.kiro/steering/task-verification.md",
+    "file://.kiro/steering/dotnet-backend.md",
+    "skill://.kiro/skills/*/SKILL.md"
+  ]
+}
